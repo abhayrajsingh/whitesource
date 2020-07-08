@@ -1,0 +1,2 @@
+# whitesource
+whitesource configuration
